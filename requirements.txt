@@ -49,7 +49,7 @@ six==1.11.0
 social-auth-app-django==2.1.0
 social-auth-core==1.7.0
 tablib==0.12.1
-Twisted==17.9.0
+Twisted==22.4.0
 txaio==2.9.0
 ua-parser==0.8.0
 unicodecsv==0.14.1
